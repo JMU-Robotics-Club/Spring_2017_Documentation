@@ -4,3 +4,5 @@ https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorial
 
 Learned about and worked on Optical Flow in OpenCV:
 http://docs.opencv.org/3.2.0/d7/d8b/tutorial_py_lucas_kanade.html
+
+Check out example_code/cv in the Robotics Club repository
