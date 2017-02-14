@@ -1,0 +1,12 @@
+Robot Arms
+We currently are able to move the the robot arm using sliders of a GUI to adjust the various aspects of the arm
+
+1. Using existing robot arms
+2. Clone the arbotix repository: https://github.com/vanadiumlabs/arbotix_ros.git
+3. To install the moveit_core repository run the command:
+    sudo apt-get install ros-kinetic-moveit
+   This will need Professor Sprague's permission
+4. To get the arm to run:
+     roslaunch turtlebot_arm_bringup arm.launch
+5. To get GUI:
+     rosrun arbotix
